@@ -1,0 +1,1 @@
+Estou gostando do curso, mas não gostei tanto da aula de git .
